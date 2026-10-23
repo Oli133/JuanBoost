@@ -1,0 +1,6 @@
+{
+  "name": "JuanBoost",
+  "description": "Ultra-performance gaming suite to boost FPS, minimize input latency, optimize system resources, and extend battery life.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
